@@ -1,4 +1,4 @@
-# Head Count Experiment
+# People Count Experiment
 Test various situations of pedestrians entering and exiting through the door
 
 ## People in and out experiment 1
