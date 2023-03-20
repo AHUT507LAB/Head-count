@@ -3,7 +3,7 @@ Test various situations of pedestrians entering and exiting through the door
 
 ## People in and out experiment 1
 ```
-Test various pedestrian entry and exit experiments through doors
+Test various pedestrian entry and exit experiments through door
 ```
 https://user-images.githubusercontent.com/85088116/224203616-0b8e852f-250b-419d-be93-d4f1d6fcc0a2.mp4
 
